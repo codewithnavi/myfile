@@ -1,0 +1,25 @@
+#header {
+  border: 1px solid black;
+  height: 50px;
+  width: auto;
+  background-color: black;
+  border-radius: 30px;
+}
+ul {
+  display: flex;
+}
+li {
+  padding-right: 100px;
+  font-weight: 300;
+  list-style: none;
+  /* border: 1px solid; */
+}
+
+#li1,
+#li2,
+#li3,
+#li4 {
+  margin: auto;
+  color: white;
+  cursor: pointer;
+}
